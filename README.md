@@ -35,6 +35,21 @@ We also have asked Marijn certain questions about himself and how he is working 
 
 ### Test plan
 
+Als test zou ik graag willen weten hoe u door een Drag & Drop gaat. Hiervoor heb ik er eentje gemaakt. Tot nu toe werkt hij gewoon als een normale drag & drop. hierbij zitten geen extra functionaliteiten behalve dat je bepaalde activiteiten kan verslepen van dag naar dag. Ik zou graag willen weten tegen wat voor verschillende dingen u aanloopt als u bezig bent met een drag & drop.
+
+#### Question 1: Waarvoor zou jij een week planning gebruiken? (Dutch)
+
+#### Question 2: Waar loop jij tegen aan als je gebruik maakt van Drag & Drop (Dutch)
+
+#### Question 3: Uit wat voor activiteiten bestaat uw werk dagen? (Dutch)
+
+#### Question 4: Welke knoppen op het toetsenbord gebruik jij het meest om te navigeren? (Dutch)
+
+#### Question 5: Van welke verschillende metal bands bent u fan? (Dutch)
+
+#### Question 6: Maakt u al gebruik van SCRUM op werk of een planning? (Dutch)
+
+
 
 
 ## The thirth user test
