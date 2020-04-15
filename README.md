@@ -1,6 +1,6 @@
 # Drag & Drop Weekly schedule
 
-I am making a Drag & Drop weekly schedule for Marijn. He will be able to make he's own weekly schedule in this application. Marijn works five days in the week at FUGA. In this company he has a crucial role in shaping designing and programming. The weelky schedule needs to be easily organized, this will happen through the keyboard. The list will also be able to work with the trackpad. This weekly schedule will help Marijn in he's daily/weekly needs and will help him get all he's tasks organized.
+I am making a Drag & Drop weekly schedule for Marijn. He will be able to make he's own weekly schedule in this application. Marijn works five days in the week at FUGA. In this company he has a crucial role in shaping designing and programming. The weelky schedule needs to be easily organized, this will happen through the keyboard. The list will also be able to work with the trackpad. This weekly schedule will help Marijn in he's daily/weekly needs and will help him get all the tasks he needs to do organized.
 
 ## Demo
 
