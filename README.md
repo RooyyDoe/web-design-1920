@@ -49,7 +49,7 @@ Als test zou ik graag willen weten hoe u door een Drag & Drop gaat. Hiervoor heb
 
 #### Question 6: Maakt u al gebruik van SCRUM op werk of een planning? (Dutch)
 
-
+#### Question 7: Zou u deze weekelijkse planning alleen gebruiken voor op werk of ook bijvoorbeeld voor het dagelijkse leven? (Dutch)
 
 
 ## The thirth user test
