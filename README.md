@@ -12,7 +12,7 @@ I am making a Drag & Drop weekly schedule for Marijn. He will be able to make he
 **Clone the repository of the project**
 
 ```
-git clone https://github.com/RooyyDoe/real-time-web-1920.git
+git clone https://github.com/RooyyDoe/web-design-1920.git
 ```
 
 **After this open the index.html file in the browser**
