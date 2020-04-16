@@ -26,7 +26,7 @@ git clone https://github.com/RooyyDoe/web-design-1920.git
 
 ## Who is Marijn?
 
-
+Marijn has a motor disorder and rides a wheelchair. This did not stop him from completing high school in five years so that he could study at a technical university. Marijn eventually went on to study information technology at the TUE because of the ultimate passion for computers. [readmore..](https://github.com/RooyyDoe/web-design-1920/wiki/Wie-is-Marijn-Meijles%3F)
 
 ## Design principles
 
