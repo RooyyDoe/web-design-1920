@@ -7,6 +7,13 @@ I am making a Drag & Drop weekly schedule for Marijn. He will be able to make he
 
 ## Table of contents
 
+- [Installation](#installation)
+- [First user test](#the-first-user-test)
+- [Second user test](#the-second-user-test)
+- [Thirth user test](#the-thirth-user-test)
+- [Sources](#sources)
+- [Credits](#credits)
+
 ## installation
 
 **Clone the repository of the project**
@@ -16,6 +23,22 @@ git clone https://github.com/RooyyDoe/web-design-1920.git
 ```
 
 **After this open the index.html file in the browser**
+
+## Who is Marijn?
+
+
+
+## Design principles
+
+Article I need to read: [READ!](https://exclusive-design.vasilis.nl/)
+
+**studying the person in question**
+
+**ignoring conventions**
+
+**prioritising identity**
+
+**adding nonsense**
 
 ## The first user test
 
@@ -31,25 +54,56 @@ Marijn has a motor disorder and rides a wheelchair. This did not stop him from c
 
 We also have asked Marijn certain questions about himself and how he is working with the computer. These will be found in my [Wiki](https://github.com/RooyyDoe/web-design-1920/wiki/Eerste-gesprek-met-Marijn) (Dutch)
 
+The main thing we wanted to discover as a group was who Marijn was and what he does for a living. In this online meeting we talked about hes hobbies and also about why he disliked the Drag & Drop. We did not have a great prototype that we could test with at that moment.
+
 ## The second user test
 
-### Test plan
+In the second user test our teacher went to Marijn to help us out with an extra webcam, so that we could exactly see what Marijn was doing with he's hands. This helped a lot with seeing how Marijn is working with the computer and that we really need to make or applications the way he prefers it. the communication with Marijn was better then the first user test, because our teacher was right next to him and helped him with everything and would explain it a second time if we did not understand what Marijn was saying.
 
-Als test zou ik graag willen weten hoe u door een Drag & Drop gaat. Hiervoor heb ik er eentje gemaakt. Tot nu toe werkt hij gewoon als een normale drag & drop. hierbij zitten geen extra functionaliteiten behalve dat je bepaalde activiteiten kan verslepen van dag naar dag. Ik zou graag willen weten tegen wat voor verschillende dingen u aanloopt als u bezig bent met een drag & drop.
+### First prototype:
 
-#### Question 1: Waarvoor zou jij een week planning gebruiken? (Dutch)
+<img width="1440" alt="Schermafdruk 2020-04-16 08 01 48" src="https://user-images.githubusercontent.com/40355914/79420119-8af14880-7fb8-11ea-81cc-4d7478b59d7c.png">
 
-#### Question 2: Waar loop jij tegen aan als je gebruik maakt van Drag & Drop (Dutch)
+In this prototype you are able to move the activity blocks around like a Drag & Drop. The prototype at this moment is not made with the needs of Marijn yet. I just wanted to see how he could move around the activity blocks and how he was struggling with  in this process. 
 
-#### Question 3: Uit wat voor activiteiten bestaat uw werk dagen? (Dutch)
+<details>
+ <summary> Feedback test 2 </summary>
+ 
+ #### Questions
+ 
+ > When you working on a project for work and you're making use of SCRUM are you writing the tasks urself?
+ 
+Marijn told me that he has assistents that do this for him, (As a joke) but he doesn't like typing so he asked if I could implement an autocomplete on the activity blocks. This will mean that if you start typing a letter it will come up with suggestions that you have written down before.
 
-#### Question 4: Welke knoppen op het toetsenbord gebruik jij het meest om te navigeren? (Dutch)
+> Which keyboard buttons do you use most to navigate?
 
-#### Question 5: Van welke verschillende metal bands bent u fan? (Dutch)
+Marijn told me to use the H J K L keys on the keyboard to navigate through the schedule. He used these buttons before and knows how they work. The are used on old programming programs. On this way you can really make it a invidual application for Marijn.
 
-#### Question 6: Maakt u al gebruik van SCRUM op werk of een planning? (Dutch)
+> Which different metal bands are you a fan of?
 
-#### Question 7: Zou u deze weekelijkse planning alleen gebruiken voor op werk of ook bijvoorbeeld voor het dagelijkse leven? (Dutch)
+As a personal question I wanted to know what bands Marijn liked. Maybe in the future I can use this to make the application even more personal for Marijn. He told us that he liked Gojira the most. I have never heard of them before, but I will take this with me in the process.
+
+> What would you use a weekky planning for?
+
+Marijn told me that he is using a planning for work. In this planning he has different activities that he needs to achieve at the end of the week/day.
+ 
+ #### Improvements
+ 
+ - Making use of the H J K L keys to navigate through the weekly schedule.
+ - Marijn needs to be able to select an activity block and move it around with he's keyboard.
+ - The text in the activity blocks needs to be editable.
+ - The text in the acitvity blocks needs autocomplete so that Marijn doesn't have to type full messages.
+ - Use the Y key to select the activity block
+ - Use the P key to drop the selected activity block
+ - Use focus and hover within the weekly schedule
+ - Make it more personal and use the design principes for this aswell.
+ - Color does not apply for Marijn he likes static colors. (Dark/light theme?)
+ 
+</details>
+
+### Changes after feedback:
+
+
 
 
 ## The thirth user test
