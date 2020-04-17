@@ -7,56 +7,122 @@ body {
     height: 100vh;
 }
 
-.main-wrap {
+/* .main-wrap {
     display: flex;
 }
 
 .profile-wrap {
-    width: 25%;
+    width: 20%;
     background-color: #fcfeff;
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
     height: 100vh;
-}
+} */
 
-.profile-wrap > h1 {
+/* .profile-wrap > h1 {
     margin-left: 1em;
+    font-size: 1.5em;
+} */
+
+header {
+    z-index: 501;
+    margin: 0 0 1em 0;
+    padding: 1em 1em;
+    width: 100%;
+    font-size: .9em;
+    color: black;
+    background-color: #EAEFF0;;
 }
 
+header > h2 {
+    margin: 0;
+}
 
 .container-wrap {
     display: flex;
-    width: 75%;
-    overflow-x: auto;
+    width: 100%;
 }
 
 .container {
+    width: 100%;
+    height: 100%;
     padding: .5em;
 }
 
-.container:first-of-type {
-    margin-left: 1em;
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: .5em;
+    border: 1px solid #EAEFF0;
+    background-color: #EAEFF0;
 }
 
 .title > h1 {
-    border: 1px solid #EAEFF0;
-    background-color: #EAEFF0;
-    border-radius: .2em;
-    padding: .2em .2em .2em .5em;
-    width: 192px;
-    font-size: 1.2em;
+    padding-left: .5em;
+    font-size: .9em;
 }
 
-.draggable {
-    padding: 1em;
-    width: 172px;
-    margin-right: 1em;
-    background-color: white;
-    border-radius: .2em;
-    border: solid 1px #F5F9FA;
-    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
-    cursor: move;
+.title > a > img {
+    padding-right: .5em;
+    width: 16px;
+    height: 16px;
 }
 
 .draggable.dragging {
     opacity: .5;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.draggable {
+    background-color: white;
+    border: solid 1px #F5F9FA;
+    padding: .5em .8em;
+    margin-bottom: .3em;
+    cursor: move;
+}
+
+.draggable > h2 {
+    font-size: .9em;
+    margin-top: .6em;
+    margin-bottom: .1em;
+    cursor: text;
+}
+
+.time {
+    padding-top: .5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.time > p {
+    font-size: .8em;
+    opacity: .6;
+    cursor: text;
+    padding: 0;
+    margin: 0;
+}
+
+.time > a > img {
+    width: 16px;
+    height: 16px;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0;
+    opacity: .6;
+}
+
+.location > img {
+    width: 16px;
+    height: 16px;
+    padding-right: .3em;
+}
+
+.location > p {
+    cursor: text;
+    font-size: .8em;
 }
